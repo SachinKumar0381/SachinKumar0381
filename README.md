@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN, JavaScript, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://sachin-kumar-0381.netlify.app/](https://sachin-kumar-0381.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sachin-kumar-1998.netlify.app/](https://sachin-kumar-1998.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sachinkuom0591998](https://medium.com/@sachinkuom0591998)
 
