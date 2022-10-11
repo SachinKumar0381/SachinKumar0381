@@ -21,7 +21,7 @@ positively to the growth of the organization.</h3>
 
 - 📫 How to reach me **sachinkuom0591998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1leo52FurhMezgKllNAQMVTvAUP1xUeSE/view?usp=sharing](https://drive.google.com/file/d/1leo52FurhMezgKllNAQMVTvAUP1xUeSE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
