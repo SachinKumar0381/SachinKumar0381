@@ -13,7 +13,7 @@ positively to the growth of the organization.</h3>
 
 - 🌱 I’m currently learning **MERN, JavaScript, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://sachin-kumar-1998.netlify.app/](https://sachin-kumar-1998.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sachinkumar0381.github.io/](https://sachinkumar0381.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@sachinkuom0591998](https://medium.com/@sachinkuom0591998)
 
